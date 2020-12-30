@@ -10,9 +10,7 @@ This plugin is made by **LondonStudios**, we have created a variety of releases 
 ![W3W](https://i.imgur.com/ECDTgkw.png)
 
 ## Free Resource
-This is where we'd usually direct you to our Tebex store, but instead this time you download this from GitHub as we've released it for free.
-
-Download it [here](https://london-studios.tebex.io/package/4232827).
+This is where we'd usually direct you to our Tebex store, but instead this time you download this from GitHub as we've released it for free here.
 
 ## Usage
 
